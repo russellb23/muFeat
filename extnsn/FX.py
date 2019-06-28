@@ -79,6 +79,7 @@ class BeatSpectrogram:
 
     def compute_BHisto(self, bspectrum):
         """ Compute beat histogram and information there in """
+        unimplemented()
 
 
 class PerceptualFeatures:
