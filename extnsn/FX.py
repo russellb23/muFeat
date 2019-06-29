@@ -1,3 +1,6 @@
+# Copyright 2019 Russell. All Rights Reserved
+# Use of the complete code or any part of this code is governed by the
+# License terms found in the LICENSE file
 # Feature extraction module
 # Compute Perceptual, Spectral and Mel features
 # Source separation: REPET and similairty by coseine metric
