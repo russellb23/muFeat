@@ -1,2 +1,2 @@
 # muFeat
-Music Feature extraction 
+`mufeat` A flexible, object oriented, comprehensive musical feature extraction module for extracting spectral, perceptual and mel features. Main intent of this module is to cover various musical features as comprehensively as possible. `muFeat` enables quick prototyping through it's object oriented structure. In addition to features extraction `muFeat` also provides source extraction methods (background source separation) for delineating vocal track from the repeating background structures.
