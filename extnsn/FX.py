@@ -80,6 +80,9 @@ class BeatSpectrogram:
             self.J[m] = self.I/(self.L//m)
         self.P = np.argmax(self.J)
 
+        return self.P
+
+
     def compute_BHisto(self, bspectrum):
         """ Compute beat histogram and information there in """
         unimplemented()
